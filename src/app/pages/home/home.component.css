@@ -1,0 +1,8 @@
+.container_articules {
+    margin-top: 30px;
+    
+    width: 100%; /* Ocupa toda a largura do pai */
+    display: flex; /* Troque inline-flex por flex */
+    flex-direction: row;
+    justify-content: center;
+}
